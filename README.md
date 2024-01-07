@@ -9,7 +9,7 @@
 
 
 
-# [Project 2:House Prices - Advanced Regression Techniques](https://github.com/pavanipragada/House-Prices-Advanced-Regression-Techniques)
+# [Project 2: House Prices - Advanced Regression Techniques](https://github.com/pavanipragada/House-Prices-Advanced-Regression-Techniques)
 
 * The project tackles the challenge of accurately predicting house prices using advanced regression techniques.
 * The primary concern is to provide a reliable model that can consider various factors influencing property values and generate precise predictions.
