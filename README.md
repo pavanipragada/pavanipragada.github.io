@@ -1,6 +1,6 @@
 # Pavani_Pragada_Portfolio
 
-# [Project 1: Home-Credit-Default-Risk-Prediction] https://github.com/pavanipragada/Home-Credit-Default-Risk-Prediction
+# [Project 1: Home-Credit-Default-Risk-Prediction](https://github.com/pavanipragada/Home-Credit-Default-Risk-Prediction)
 
 * Developed a predictive model optimizing loan approval processes for individuals with limited credit history.
 * Key contributions include organizing project content, handling categorical data, and implementing normalization techniques.
@@ -9,7 +9,7 @@
 
 
 
-# [Project 2:House Prices - Advanced Regression Techniques] https://github.com/pavanipragada/House-Prices-Advanced-Regression-Techniques
+# [Project 2:House Prices - Advanced Regression Techniques](https://github.com/pavanipragada/House-Prices-Advanced-Regression-Techniques)
 
 * Problem Statement:
 * The project tackles the challenge of accurately predicting house prices using advanced regression techniques.
