@@ -17,19 +17,8 @@
 
 # [Project 3: Regression - MovieMagic Concession Sales Analysis](https://github.com/pavanipragada/MovieMagic-Concession-Sales-Analysis)
 # Project Overview:
-* This repository contains an in-depth analysis conducted for MovieMagic, a movie chain in the southwest region. The project aims to identify factors influencing concession sales and improve the prediction of the amount spent on concessions. The analysis involves three main components:
-## Linear Regression Analysis:
-* Determine significant predictors influencing concession spending.
-* Identify multicollinearity among predictors.
-* Assess positive and negative influences of predictors on the amount spent.  
-## Penalized Regression Analysis:
-* Evaluate relevant variables for predicting concession sales.
-* Compare the effectiveness of Ridge and LASSO in selecting relevant predictors.
-* Analyze how different data splits (70-30 vs. 80-20) influence regression metrics.
-## Text Analysis:
-* Visualize customer reviews through word clouds for different star ratings.
-* Implement Latent Dirichlet Allocation (LDA) for topic modeling.
-* Provide business strategy recommendations based on the inferred topics.
+* Performed an in-depth analysis for MovieMagic, a southwest movie chain, aiming to improve predictions of concession sales and identify key influencing factors.
+* The analysis includes three primary components: Linear Regression Analysis, Penalized Regression Analysis (utilizing both Ridge and Lasso methods), and Text Analysis employing Latent Dirichlet Allocation (LDA).
 
 # [Project 4 : Exploratory Data Analysis(EDA) - Census Data](https://github.com/pavanipragada/EDA-Census-Data)
 
