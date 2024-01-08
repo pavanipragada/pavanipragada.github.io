@@ -16,7 +16,7 @@
 * This model intends to offer valuable insights into the intricate dynamics of the real estate market, aiding in informed decision-making for potential homebuyers and sellers.
 
 # [Project 3: Regression - MovieMagic Concession Sales Analysis](https://github.com/pavanipragada/MovieMagic-Concession-Sales-Analysis)
-# Project Overview:
+
 * Performed an in-depth analysis for MovieMagic, a southwest movie chain, aiming to improve predictions of concession sales and identify key influencing factors.
 * The analysis includes three primary components: Linear Regression Analysis, Penalized Regression Analysis (utilizing both Ridge and Lasso methods), and Text Analysis employing Latent Dirichlet Allocation (LDA).
 
